@@ -1,2 +1,3 @@
 # Python-Learning
-python 基础学习
+basic python learning
+parctice of Python Crash Course
